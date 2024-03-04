@@ -1,0 +1,1 @@
+A career mission statement states what you want to achieve professionally in five years.

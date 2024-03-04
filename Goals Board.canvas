@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"fd848c88eac2cfb9","type":"group","x":-620,"y":-620,"width":1540,"height":1200,"label":"My Goals Board"},
+		{"id":"a5e2857b02f7d129","type":"file","file":"Templates/Scripts/Goals Board Queries.md","subpath":"#Celebrations & Events","x":-600,"y":300,"width":480,"height":260},
+		{"id":"b9c3329d0ff38c5c","type":"file","file":"Templates/Scripts/Goals Board Queries.md","subpath":"#Moonshots","x":-600,"y":-580,"width":480,"height":260},
+		{"id":"f1299356220eeba4","type":"file","file":"Templates/Scripts/Goals Board Queries.md","subpath":"#Relationships","x":-600,"y":-290,"width":480,"height":260,"color":"1"},
+		{"id":"a2e5d4d611251e3c","type":"file","file":"Templates/Scripts/Goals Board Queries.md","subpath":"#Achievements","x":-100,"y":300,"width":1000,"height":260},
+		{"id":"e5bf06662b0a0f9a","type":"file","file":"Templates/Scripts/Goals Board Queries.md","subpath":"#Health & Fitness","x":420,"y":-290,"width":480,"height":260,"color":"4"},
+		{"id":"850eb94ed62034ea","type":"file","file":"Templates/Scripts/Goals Board Queries.md","subpath":"#Finances","x":-600,"y":10,"width":480,"height":260,"color":"3"},
+		{"id":"e31ff1aff0be9ef5","type":"file","file":"Templates/Scripts/Goals Board Queries.md","subpath":"#Spiritual & Mental Health","x":-100,"y":-290,"width":500,"height":260,"color":"5"},
+		{"id":"1205aa9abbda3f32","type":"file","file":"Templates/Scripts/Goals Board Queries.md","subpath":"#Personal Development","x":420,"y":-580,"width":480,"height":260,"color":"3"},
+		{"id":"a69544910f4b3e2c","type":"file","file":"Templates/Scripts/Goals Board Queries.md","subpath":"#Quality of Life & Hobbies","x":-100,"y":10,"width":500,"height":260,"color":"2"},
+		{"id":"fc38adc77f840cbd","type":"file","file":"Templates/Scripts/Goals Board Queries.md","subpath":"#Career & Professional Skills","x":420,"y":10,"width":480,"height":260,"color":"6"},
+		{"id":"2fee0f33e9c6f67f","type":"file","file":"Templates/Scripts/Goals Board Queries.md","subpath":"#Personal Brand","x":-100,"y":-580,"width":500,"height":260}
+	],
+	"edges":[]
+}

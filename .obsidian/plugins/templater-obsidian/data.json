@@ -1,0 +1,91 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "0 - Journal/0 - Daily",
+      "template": "Templates/Daily Template.md"
+    },
+    {
+      "folder": "0 - Journal/1 - Weekly",
+      "template": "Templates/Weekly Template.md"
+    },
+    {
+      "folder": "0 - Journal/2 - Monthly",
+      "template": "Templates/Monthly Template.md"
+    },
+    {
+      "folder": "0 - Journal/9 - Meetings",
+      "template": "Templates/Meeting Template.md"
+    },
+    {
+      "folder": "4 - Work Projects",
+      "template": "Templates/Project Template.md"
+    },
+    {
+      "folder": "3 - Personal Projects",
+      "template": "Templates/Project Template.md"
+    },
+    {
+      "folder": "5 - Resources/Recipies",
+      "template": "Templates/Recipe Template.md"
+    },
+    {
+      "folder": "2 - Goals/Career & Professional Skills",
+      "template": "Templates/My Whole Self Templates/Career.md"
+    },
+    {
+      "folder": "2 - Goals/Finances",
+      "template": "Templates/My Whole Self Templates/Finances.md"
+    },
+    {
+      "folder": "2 - Goals/Health & Fitness",
+      "template": "Templates/My Whole Self Templates/Health.md"
+    },
+    {
+      "folder": "2 - Goals/Moonshots",
+      "template": "Templates/My Whole Self Templates/Moonshots.md"
+    },
+    {
+      "folder": "2 - Goals/Hobbies & Quality of Life",
+      "template": "Templates/My Whole Self Templates/Hobbies.md"
+    },
+    {
+      "folder": "2 - Goals/Personal Brand",
+      "template": "Templates/My Whole Self Templates/Personal Brand.md"
+    },
+    {
+      "folder": "2 - Goals/Personal Development",
+      "template": "Templates/My Whole Self Templates/Personal Development.md"
+    },
+    {
+      "folder": "2 - Goals/Relationships",
+      "template": "Templates/My Whole Self Templates/Relationships.md"
+    },
+    {
+      "folder": "2 - Goals/Spiritual & Mental Health",
+      "template": "Templates/My Whole Self Templates/Mental Health.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

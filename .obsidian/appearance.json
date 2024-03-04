@@ -1,0 +1,8 @@
+{
+  "accentColor": "#11800f",
+  "cssTheme": "Harlequin Forest",
+  "enabledCssSnippets": [
+    "custom callouts"
+  ],
+  "theme": "obsidian"
+}

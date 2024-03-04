@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "599f9e0d4f4c0f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "762c1d2a0d730d6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8857f868448bedf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Me/Career Mission Statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8620ab88b795b700",
+    "type": "split",
+    "children": [
+      {
+        "id": "08c6548f4c2d9059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b25f5f0ccb3ab8ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59600c6b132fd475",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72dbea89463f7954",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab0929c6daef3401",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d995d6cd5571bea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6839470807390c6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aae192965c8c3f10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2a3c043e5e947b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4c6bade0db2e0c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "bd9df4ab266dbfd1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "b25f5f0ccb3ab8ae",
+  "lastOpenFiles": [
+    "1 - Me/Career Mission Statement.md",
+    "README.md",
+    "1 - Me/Personal Mission Statement.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/Visualising your Goals.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/My Whole Self.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/Personal Brand.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/Happiness Heart.md",
+    "2 - Goals/Personal Development/Familiarise myself with the Personal Planning Template.md",
+    "5 - Resources/Sources/Time Management/Eisenhower Matrix.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/Obsidian Reference Pages/Quick Reference Sheet.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/Stress Container.md",
+    "Goals Board.canvas",
+    "Templates/Scripts/Goals Board Queries.md",
+    "Templates/Scripts/Queries.md",
+    "Templates/Classes/Goal.md",
+    "E",
+    "Dashboard.canvas",
+    "5 - Resources/Sources/Time Management/80-20 rule.md",
+    "+ New Notes/Example.md",
+    "5 - Resources/Sources/Time Management/Pomodoro.md",
+    "Templates/Daily Template.md",
+    "0 - Journal/0 - Daily/2024-02-28.md",
+    "5 - Resources/Sources/Time Management/Day Theming.md",
+    "5 - Resources/Sources/Time Management/Eat that Frog.md",
+    "0 - Journal/1 - Weekly/2024-W09.md",
+    "0 - Journal/2 - Monthly/2024-02.md",
+    "5 - Resources/Sources/Time Management/Parkinsons Law.md",
+    "5 - Resources/Sources/Time Management/MoSCoW.md",
+    "5 - Resources/Sources/Time Management/Time Blocking.md",
+    "5 - Resources/Sources/Goals and Objective Setting",
+    "5 - Resources/Sources/Time Management",
+    "A - Archives/4 - Work Projects",
+    "5 - Resources/Sources/Personal Planning Template Documentation/Obsidian Reference Pages",
+    "0 - Journal/Weekly",
+    "B -",
+    "Ee -dd",
+    "E",
+    "1 - Me"
+  ]
+}
