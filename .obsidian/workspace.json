@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "762c1d2a0d730d6b",
+        "id": "146e1218cc97d73d",
         "type": "tabs",
         "children": [
           {
-            "id": "8857f868448bedf5",
+            "id": "fcfd2f806dbce111",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1 - Me/Career Mission Statement.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 75,
+                  "y": 41.5,
+                  "zoom": -0.48279149959191725
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Dashboard.canvas"
               }
             }
           },
@@ -152,50 +155,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "b25f5f0ccb3ab8ae",
+  "active": "fcfd2f806dbce111",
   "lastOpenFiles": [
-    "1 - Me/Career Mission Statement.md",
-    "README.md",
-    "1 - Me/Personal Mission Statement.md",
-    "5 - Resources/Sources/Personal Planning Template Documentation/Visualising your Goals.md",
-    "5 - Resources/Sources/Personal Planning Template Documentation/My Whole Self.md",
-    "5 - Resources/Sources/Personal Planning Template Documentation/Personal Brand.md",
-    "5 - Resources/Sources/Personal Planning Template Documentation/Happiness Heart.md",
-    "2 - Goals/Personal Development/Familiarise myself with the Personal Planning Template.md",
-    "5 - Resources/Sources/Time Management/Eisenhower Matrix.md",
-    "5 - Resources/Sources/Personal Planning Template Documentation/Obsidian Reference Pages/Quick Reference Sheet.md",
-    "5 - Resources/Sources/Personal Planning Template Documentation/Stress Container.md",
-    "Goals Board.canvas",
-    "Templates/Scripts/Goals Board Queries.md",
-    "Templates/Scripts/Queries.md",
-    "Templates/Classes/Goal.md",
-    "E",
-    "Dashboard.canvas",
-    "5 - Resources/Sources/Time Management/80-20 rule.md",
-    "+ New Notes/Example.md",
-    "5 - Resources/Sources/Time Management/Pomodoro.md",
-    "Templates/Daily Template.md",
-    "0 - Journal/0 - Daily/2024-02-28.md",
-    "5 - Resources/Sources/Time Management/Day Theming.md",
-    "5 - Resources/Sources/Time Management/Eat that Frog.md",
-    "0 - Journal/1 - Weekly/2024-W09.md",
-    "0 - Journal/2 - Monthly/2024-02.md",
-    "5 - Resources/Sources/Time Management/Parkinsons Law.md",
+    "5 - Resources/Sources/Time Management/ICE Priority Management.md",
     "5 - Resources/Sources/Time Management/MoSCoW.md",
-    "5 - Resources/Sources/Time Management/Time Blocking.md",
+    "Goals Board.canvas",
+    "2 - Goals/Celebrations & Events/Summer Holiday.md",
+    "2 - Goals/Celebrations & Events/Weekend Take Away.md",
+    "Templates/My Whole Self Templates/Celebrations & Events.md",
+    "Templates/My Whole Self Templates/Finances.md",
+    "Dashboard.canvas",
+    "5 - Resources/Books/Building a Second Brain.md",
+    "5 - Resources/Sources/Goals and Objective Setting/Personal Brand.md",
+    "5 - Resources/Books",
+    "5 - Resources/Sources/Goals and Objective Setting/SWOT analysis.md",
+    "1 - Me/Personal Vision Statement.md",
+    "1 - Me/Personal Values.md",
+    "1 - Me/Personal Mission Statement.md",
+    "1 - Me/Career Mission Statement.md",
+    "0 - Journal/2 - Monthly/2024-02.md",
+    "0 - Journal/1 - Weekly/2024-W09.md",
+    "0 - Journal/0 - Daily/2024-02-28.md",
+    "5 - Resources/Sources/Time Management/Parkinsons Law.md",
+    "5 - Resources/Sources/Time Management/Eisenhower Matrix.md",
+    "5 - Resources/Sources/Goals and Objective Setting/SMART.md",
+    "5 - Resources/Sources/Goals and Objective Setting/GROW.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/My Whole Self.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/Visualising your Goals.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/Personal Brand.md",
+    "3 - Personal Projects/Example of a Personal Project.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/Stress Container.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/Happiness Heart.md",
+    "LICENSE",
+    "E",
     "5 - Resources/Sources/Goals and Objective Setting",
     "5 - Resources/Sources/Time Management",
     "A - Archives/4 - Work Projects",
-    "5 - Resources/Sources/Personal Planning Template Documentation/Obsidian Reference Pages",
+    "5 - Resources/Sources/Obsidian Reference Pages",
     "0 - Journal/Weekly",
     "B -",
-    "Ee -dd",
-    "E",
-    "1 - Me"
+    "Ee -dd"
   ]
 }

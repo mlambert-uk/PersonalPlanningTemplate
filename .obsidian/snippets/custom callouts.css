@@ -1,60 +1,68 @@
-.callout[data-callout="code"] {
-	--callout-color: var(--color-green-rgb) ;
-	--callout-icon: lucide-code ;
+.callout[data-callout="idea"] {
+  --callout-color: var(--color-yellow-rgb);
+  --callout-icon: lucide-lightbulb;
 }
 
+.callout[data-callout="code"] {
+  --callout-color: var(--color-green-rgb);
+  --callout-icon: lucide-code;
+}
+
+.callout[data-callout="event"] {
+  --callout-color: var(--color-green-rgb);
+  --callout-icon: lucide-calendar;
+}
 .callout[data-callout="development"] {
-	--callout-color: var(--color-pink-rgb) ;
-	--callout-icon: lucide-code ;
+  --callout-color: var(--color-pink-rgb);
+  --callout-icon: lucide-code;
 }
 
 .callout[data-callout="career"] {
-	--callout-color: var(--color-orange-rgb) ;
-	--callout-icon: lucide-briefcase ;
+  --callout-color: var(--color-orange-rgb);
+  --callout-icon: lucide-briefcase;
 }
 
 .callout[data-callout="finances"] {
-	--callout-color: var(--color-yellow-rgb) ;
-	--callout-icon: lucide-coins ;
+  --callout-color: var(--color-yellow-rgb);
+  --callout-icon: lucide-coins;
 }
 
 .callout[data-callout="health"] {
-	--callout-color: var(--color-green-rgb) ;
-	--callout-icon: lucide-apple ;
+  --callout-color: var(--color-green-rgb);
+  --callout-icon: lucide-apple;
 }
 
 .callout[data-callout="fitness"] {
-	--callout-color: var(--color-green-rgb) ;
-	--callout-icon: lucide-dumbbell ;
+  --callout-color: var(--color-green-rgb);
+  --callout-icon: lucide-dumbbell;
 }
 
 .callout[data-callout="moonshot"] {
-	--callout-color: var(--color-purple-rgb) ;
-	--callout-icon: lucide-moon ;
+  --callout-color: var(--color-purple-rgb);
+  --callout-icon: lucide-moon;
 }
 
 .callout[data-callout="hobbies"] {
-	--callout-color: var(--color-yellow-rgb) ;
-	--callout-icon: lucide-flower-2 ;
+  --callout-color: var(--color-yellow-rgb);
+  --callout-icon: lucide-flower-2;
 }
 
 .callout[data-callout="relationships"] {
-	--callout-color: var(--color-red-rgb) ;
-	--callout-icon: lucide-heart ;
+  --callout-color: var(--color-red-rgb);
+  --callout-icon: lucide-heart;
 }
 
 .callout[data-callout="spirituality"] {
-	--callout-color: var(--color-blue-rgb) ;
-	--callout-icon: lucide-ghost ;
+  --callout-color: var(--color-blue-rgb);
+  --callout-icon: lucide-ghost;
 }
 
 .callout[data-callout="mentalhealth"] {
-	--callout-color: var(--color-blue-rgb) ;
-	--callout-icon: lucide-brain ;
+  --callout-color: var(--color-blue-rgb);
+  --callout-icon: lucide-brain;
 }
 
 .callout[data-callout="brand"] {
-	--callout-color: var(--color-cyan-rgb) ;
-	--callout-icon: lucide-tags ;
+  --callout-color: var(--color-cyan-rgb);
+  --callout-icon: lucide-tags;
 }
-

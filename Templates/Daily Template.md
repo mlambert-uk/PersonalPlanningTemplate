@@ -13,9 +13,15 @@ let path = "https://actionforhappiness.org/sites/default/files/styles/daily_mess
 Week Summary: [[0 - Journal/1 - Weekly/<%moment(tp.file.title).format("gggg-[W]ww")%>|<%moment(tp.file.title).format("gggg-[W]ww")%>]]
 Monthly Plan / Review : [[0 - Journal/2 - Monthly/<%moment(tp.file.title).format("YYYY-MM")%>|<%moment(tp.file.title).format("YYYY-MM")%>]]
 <% tp.web.daily_quote() %>
-
+### Happiness Heart
 <%* tR += "![" + filename + "|200](" + path + ")" %>
+What are you going to do today to add to your [[Happiness Heart]]?
+- 
+### Stress Container
+What are you going to do today to reduce or remove a stress from your [[Stress Container]]?
+- 
 ### Todays quests
+What do you want to achieve today?
 - 
 ### Journal
 - 

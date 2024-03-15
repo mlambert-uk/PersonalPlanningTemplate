@@ -14,8 +14,6 @@ This page details how to fill in your Goals Board.
 	3. Fill in your [[Visualising your Goals#Relationships|Relationships]] goals
 	4. Fill in your [[Visualising your Goals#Spiritual & Mental Health|Spiritual & Mental Health]] goals
 	5. Fill in your [[Visualising your Goals#Finances|Finances]] goals
-10. Read the [[5 - Resources/Sources/Personal Planning Template Documentation/Personal Brand|Personal Brand]] page to get a full understanding of your personal brand and any goals you want to set for yourself.
-11. Complete your [[Visualising your Goals#Personal Brand|Personal Brand]] goals
 12. The [[Visualising your Goals#Achievements|Achievements]] section automatically updates when goals are marked as "Complete"
 13. Regularly [[Visualising your Goals#archive|archive]] your completed goals
 ___
@@ -81,7 +79,7 @@ I want to write and publish a novel.  I have a few different ideas and I think I
  [[Visualising your Goals#Table of Contents|Top]]
 ___
 # Personal Development
-You will probably already have some ideas of the goals you want to set yourself for your own personal development.  This section of the board is for anything that doesn't fit into one of the other sections and is all about your personal growth.
+You will probably already have some ideas of the goals you want to set yourself for your own personal development.  If you need some ideas, you could conduct a [[SWOT analysis]], or a review of your [[Personal Brand]].  This section of the board is for anything that doesn't fit into one of the [[My Whole Self]] sections and is all about your personal growth.
 ## Fill in your Personal Development Goals
 In the ":LiTarget: 2 - Goals" section, right-click on the ":LiCode: Personal Development" folder and chose ":LiNotebookPen: New Note" from the drop-down menu.
 You will be prompted for a Goal Title.  Fill in the title of your goal, for example "Complete adding goals to my Goals Board"
@@ -225,21 +223,6 @@ This will open a new note.  Edit the note to include all relevant information ab
 Here's an example of what it could look like:
 >[!finances] 
 Review my monthly outgoings and look for any cost cutting savings I could make.  Are there any unused subscriptions or lower tariffs I should consider?  
-
- Then, click on the :LiTarget: icon on the top tab.  This is where you set your goals status and priority.  Chose from the options.  
- There is an optional field for setting a due date. 
- [[Visualising your Goals#Table of Contents|Top]]
----
- # Personal Brand
- This section of the Goals Board covers everything about your [[5 - Resources/Sources/Personal Planning Template Documentation/Personal Brand|Personal Brand]].
-## Fill in your Personal Brand goals
-In the ":LiTarget: 2 - Goals" section, right-click on the ":LiTags: Personal Brand" folder and chose ":LiNotebookPen: New Note" from the drop-down menu.
-You will be prompted for a Goal Title.  Fill in the title of your goal, for example "Get a new professional photo for my Social Media sites"
-This will open a new note.  Edit the note to include all relevant information about your Spiritual & Mental Health goal.  
-
-Here's an example of what it could look like:
->[!brand] 
-Improve the look of my professional social media accounts by standardising them with a new professional photograph that better reflects the Personal Brand I want to show.  Arrange for new photographs to be taken and chose my favorite.  
 
  Then, click on the :LiTarget: icon on the top tab.  This is where you set your goals status and priority.  Chose from the options.  
  There is an optional field for setting a due date. 

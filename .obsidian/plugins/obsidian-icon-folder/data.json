@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiUserRoundSearch",
-      "LiGraduationCap",
-      "LiSprout",
-      "LiGoal",
-      "LiTimer"
+      "LiBook",
+      "LiGlasses",
+      "LiFilter",
+      "LiSquareUserRound",
+      "LiHeart"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,7 +37,6 @@
   "2 - Goals/Health & Fitness": "LiApple",
   "2 - Goals/Celebrations & Events": "LiPartyPopper",
   "2 - Goals/Moonshots": "LiMoon",
-  "2 - Goals/Personal Brand": "LiTags",
   "2 - Goals/Personal Development": "LiCode",
   "2 - Goals/Spiritual & Mental Health": "LiBrain",
   "2 - Goals/Relationships": "LiHeart",
@@ -57,5 +56,12 @@
   "5 - Resources/Sources/Time Management": "LiTimer",
   "5 - Resources/Sources/Goals and Objective Setting": "LiGoal",
   "5 - Resources/Sources/Goals and Objective Setting/GROW.md": "LiSprout",
-  "5 - Resources/Sources/Goals and Objective Setting/SMART.md": "LiGraduationCap"
+  "5 - Resources/Sources/Goals and Objective Setting/SMART.md": "LiGraduationCap",
+  "5 - Resources/Sources/Goals and Objective Setting/SWOT analysis.md": "LiLayoutGrid",
+  "5 - Resources/Sources/Goals and Objective Setting/Personal Brand.md": "LiTag",
+  "5 - Resources/Sources/Personal Planning Template Documentation/Happiness Heart.md": "LiHeart",
+  "5 - Resources/Sources/Personal Planning Template Documentation/My Whole Self.md": "LiSquareUserRound",
+  "5 - Resources/Sources/Personal Planning Template Documentation/Stress Container.md": "LiFilter",
+  "5 - Resources/Sources/Personal Planning Template Documentation/Visualising your Goals.md": "LiGlasses",
+  "5 - Resources/Books": "LiBook"
 }

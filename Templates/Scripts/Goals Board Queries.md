@@ -61,7 +61,7 @@ SORT choice(status = "💡Idea", 1, choice(status = "🔎Research", 2, choice(st
 ```
 ## Celebrations & Events
 ```dataview
-TABLE without id file.link As "Event", status as "Status"
+TABLE without id file.link As "Event", status as "Status", due-date as "Due date"
 FROM "2 - Goals/Celebrations & Events"
 SORT choice(status = "💡Idea", 1, choice(status = "🔎Research", 2, choice(status = "⚒️In progress", 3, choice(status = "🤚On hold",4, choice(status ="✅Completed",5, choice(status = "❌Cancelled", 6,7)))))) ASC
 ```
