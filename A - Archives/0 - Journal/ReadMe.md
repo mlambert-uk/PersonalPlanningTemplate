@@ -1,0 +1,1 @@
+This is where you would move journal entries when you do not need them to live in the main notes area any more.  A good idea is to get into the habit of moving them at the end of each year, so you start with a clean slate in each year

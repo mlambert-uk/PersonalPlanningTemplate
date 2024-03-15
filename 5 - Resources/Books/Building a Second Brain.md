@@ -1,6 +1,5 @@
->[!info]
-Synopsis: A Proven Method to Organise your Digital Life and Inlock your Creative Potential
-Author: Tiago Forte
+>[!info] Synopsis: A Proven Method to Organise your Digital Life and Inlock your Creative Potential
+ -- Author: Tiago Forte
 
 ---
 # Summary

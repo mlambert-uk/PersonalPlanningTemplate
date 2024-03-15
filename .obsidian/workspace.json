@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "146e1218cc97d73d",
+        "id": "4fa83064bba50d63",
         "type": "tabs",
         "children": [
           {
-            "id": "fcfd2f806dbce111",
+            "id": "5beca9e6a9876cf9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 75,
-                  "y": 41.5,
-                  "zoom": -0.48279149959191725
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -160,45 +157,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fcfd2f806dbce111",
+  "active": "5beca9e6a9876cf9",
   "lastOpenFiles": [
+    "A - Archives/0 - Journal/ReadMe.md",
+    "A - Archives/5 - Resources/Readme.md",
+    "A - Archives/4 - Work Projects/Readme.md",
+    "A - Archives/3 - Personal Projects/ReadMe.md",
+    "A - Archives/2 - Goals/ReadMe.md",
+    "A - Archives/1 - Me/ReadMe.md",
+    "5 - Resources/My Ideas/Idea 1.md",
+    "4 - Work Projects/Example of a Work Project.md",
+    "0 - Journal/9 - Meetings/240315 - 9 - Meetings - Meeting Note.md",
+    "+ New Notes/Note.md",
+    "5 - Resources/Meeting Agendas/Agenda.md",
+    "Dashboard.canvas",
+    "Goals Board.canvas",
+    "5 - Resources/Recipies/Pickles & Chutnies/Classic Hummus.md",
+    "5 - Resources/Recipies/Sides/Welsh Cakes.md",
+    "5 - Resources/Recipies/Pickles & Chutnies",
+    "5 - Resources/Recipies/Mains/Lentil Curry.md",
+    "5 - Resources/Recipies/Sides",
+    "5 - Resources/Recipies/Mains/Mushroom Pie.md",
+    "5 - Resources/Recipies/Mains/Shakshuka.md",
+    "5 - Resources/Recipies/Mains/Bolognaise.md",
+    "5 - Resources/Recipies/Mains",
+    "5 - Resources/Meeting Agendas",
+    "5 - Resources/Books/Building a Second Brain.md",
     "5 - Resources/Sources/Time Management/ICE Priority Management.md",
     "5 - Resources/Sources/Time Management/MoSCoW.md",
-    "Goals Board.canvas",
     "2 - Goals/Celebrations & Events/Summer Holiday.md",
     "2 - Goals/Celebrations & Events/Weekend Take Away.md",
     "Templates/My Whole Self Templates/Celebrations & Events.md",
     "Templates/My Whole Self Templates/Finances.md",
-    "Dashboard.canvas",
-    "5 - Resources/Books/Building a Second Brain.md",
     "5 - Resources/Sources/Goals and Objective Setting/Personal Brand.md",
     "5 - Resources/Books",
     "5 - Resources/Sources/Goals and Objective Setting/SWOT analysis.md",
-    "1 - Me/Personal Vision Statement.md",
-    "1 - Me/Personal Values.md",
-    "1 - Me/Personal Mission Statement.md",
-    "1 - Me/Career Mission Statement.md",
-    "0 - Journal/2 - Monthly/2024-02.md",
-    "0 - Journal/1 - Weekly/2024-W09.md",
-    "0 - Journal/0 - Daily/2024-02-28.md",
-    "5 - Resources/Sources/Time Management/Parkinsons Law.md",
-    "5 - Resources/Sources/Time Management/Eisenhower Matrix.md",
-    "5 - Resources/Sources/Goals and Objective Setting/SMART.md",
-    "5 - Resources/Sources/Goals and Objective Setting/GROW.md",
-    "5 - Resources/Sources/Personal Planning Template Documentation/My Whole Self.md",
-    "5 - Resources/Sources/Personal Planning Template Documentation/Visualising your Goals.md",
-    "5 - Resources/Sources/Personal Planning Template Documentation/Personal Brand.md",
-    "3 - Personal Projects/Example of a Personal Project.md",
-    "5 - Resources/Sources/Personal Planning Template Documentation/Stress Container.md",
-    "5 - Resources/Sources/Personal Planning Template Documentation/Happiness Heart.md",
     "LICENSE",
     "E",
     "5 - Resources/Sources/Goals and Objective Setting",
     "5 - Resources/Sources/Time Management",
-    "A - Archives/4 - Work Projects",
-    "5 - Resources/Sources/Obsidian Reference Pages",
-    "0 - Journal/Weekly",
-    "B -",
-    "Ee -dd"
+    "A - Archives/4 - Work Projects"
   ]
 }
