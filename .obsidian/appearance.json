@@ -1,8 +1,14 @@
 {
   "accentColor": "#11800f",
-  "cssTheme": "Harlequin Forest",
+  "cssTheme": "",
   "enabledCssSnippets": [
-    "custom callouts"
+    "custom callouts",
+    "Colored Folders",
+    "coloured folders",
+    "notebook colours",
+    "daily notes",
+    "custom notes",
+    "Better Highlight Colour"
   ],
   "theme": "obsidian"
 }

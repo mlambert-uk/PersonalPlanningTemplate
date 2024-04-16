@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "+ New Notes/Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "+ New Notes/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "+ New Notes/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "+ New Notes/Note.md"
               }
             }
           },
@@ -159,13 +159,20 @@
   },
   "active": "5beca9e6a9876cf9",
   "lastOpenFiles": [
+    "5 - Resources/Books/Building a Second Brain.md",
+    "5 - Resources/Sources/Personal Planning Template Documentation/My Whole Self.md",
+    "5 - Resources/Sources/Goals and Objective Setting/GROW.md",
+    "5 - Resources/Sources/Goals and Objective Setting/Personal Brand.md",
+    "5 - Resources/Sources/Goals and Objective Setting/SMART.md",
+    "5 - Resources/Sources/Goals and Objective Setting/SWOT analysis.md",
+    "5 - Resources/My Ideas/Idea 1.md",
+    "README.md",
     "A - Archives/0 - Journal/ReadMe.md",
     "A - Archives/5 - Resources/Readme.md",
     "A - Archives/4 - Work Projects/Readme.md",
     "A - Archives/3 - Personal Projects/ReadMe.md",
     "A - Archives/2 - Goals/ReadMe.md",
     "A - Archives/1 - Me/ReadMe.md",
-    "5 - Resources/My Ideas/Idea 1.md",
     "4 - Work Projects/Example of a Work Project.md",
     "0 - Journal/9 - Meetings/240315 - 9 - Meetings - Meeting Note.md",
     "+ New Notes/Note.md",
@@ -182,16 +189,9 @@
     "5 - Resources/Recipies/Mains/Bolognaise.md",
     "5 - Resources/Recipies/Mains",
     "5 - Resources/Meeting Agendas",
-    "5 - Resources/Books/Building a Second Brain.md",
     "5 - Resources/Sources/Time Management/ICE Priority Management.md",
     "5 - Resources/Sources/Time Management/MoSCoW.md",
-    "2 - Goals/Celebrations & Events/Summer Holiday.md",
-    "2 - Goals/Celebrations & Events/Weekend Take Away.md",
-    "Templates/My Whole Self Templates/Celebrations & Events.md",
-    "Templates/My Whole Self Templates/Finances.md",
-    "5 - Resources/Sources/Goals and Objective Setting/Personal Brand.md",
     "5 - Resources/Books",
-    "5 - Resources/Sources/Goals and Objective Setting/SWOT analysis.md",
     "LICENSE",
     "E",
     "5 - Resources/Sources/Goals and Objective Setting",
