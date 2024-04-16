@@ -1,0 +1,119 @@
+/*------------------------------------------------------------------------------
+                     Daily Note Themes by CyanVoxel v1.0.0
+
+These are a set of 7 main CSS classes that can be used to apply individual color
+schemes to daily notes for each day of the week.
+To customize the colors for each day, just swamp out the colors values under
+the main "day of the week" classes.
+
+NOTE: By default, this snippet relies on the "Bai Jamjuree" or
+"JetBrainsMono Nerd Font Mono" fonts. If you don't wish to use these, then just
+change or remove those font-family lines from this snippet.
+                
+------------------------------------------------------------------------------*/
+:root {
+  --highlight: #ffffff;
+  --primary: #aaaaaa;
+  --dark: #333333;
+}
+
+.recipe {
+  --dark: var(--dark);
+  color: var(--dark);
+  background-color: var(--highlight);
+  --text-normal: var(--highlight);
+  --text-muted: var(--highlight);
+  --text-faint: var(--highlight);
+  --checklist-done-color: var(--highlight);
+  --metadata-label-text-color: var(--highlight);
+  --metadata-input-text-color: var(--highlight);
+  --tag-color: var(--dark);
+  --tag-background: var(--primary);
+  --hr-color: var(--primary);
+  --blockquote-border-color: var(--primary);
+  --interactive-accent: var(--primary);
+  --collapse-icon-color-collapsed: var(--primary);
+  --checkbox-color: var(--primary);
+  --checkbox-marker-color: var(--dark);
+  --checkbox-color-hover: var(--highlight);
+  --checkbox-border-color: var(--highlight);
+  --list-marker-color: var(--highlight);
+  --code-background: black;
+  --code-normal: var(--primary);
+
+  --background-modifier-border-focus: var(--primary);
+  --background-modifier-border: color-mix(
+    in srgb,
+    var(--highlight) 60%,
+    transparent
+  );
+  --background-modifier-hover: color-mix(
+    in srgb,
+    var(--highlight) 60%,
+    transparent
+  );
+  --pill-cover-hover: color-mix(in srgb, var(--highlight) 60%, transparent);
+  font-family: "Brush Script MT", "Brush Script Std", cursive !important;
+}
+
+.recipe :is(h1, .HyperMD-header.HyperMD-header-1) {
+  color: var(--primary);
+  text-align: center;
+  font-size: 60px;
+  font-family: "Brush Script MT", "Brush Script Std", cursive;
+  padding: 0 !important;
+}
+.recipe :is(h2, .HyperMD-header.HyperMD-header-2) {
+  color: var(--highlight);
+  text-align: center;
+  font-size: 30px;
+  font-family: "Brush Script MT", "Brush Script Std", cursive;
+  font-style: italic;
+  padding: 0 !important;
+}
+.recipe :is(h3, .HyperMD-header.HyperMD-header-3) {
+  color: var(--primary);
+  text-align: center;
+
+  font-size: 32px;
+  font-family: "Brush Script MT", "Brush Script Std", cursive;
+  padding-top: 0;
+}
+.recipe :is(h4, .HyperMD-header.HyperMD-header-4) {
+  background-color: var(--primary);
+  color: var(--dark);
+  /* border-color: var(--primary); */
+  font-family: "Brush Script MT", "Brush Script Std", cursive;
+  font-weight: 900;
+  margin-bottom: 0;
+  padding-top: 0;
+  font-size: 20px;
+  width: fit-content;
+  padding-left: 6px;
+  padding-right: 6px;
+  /* border: solid; */
+  border-radius: 8px;
+  /* border-width: 2px; */
+  word-wrap: normal;
+}
+.recipe p {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  font-family: "Brush Script MT", "Brush Script Std", cursive;
+}
+.recipe :is(a:link, .cm-hmd-internal-link) {
+  color: var(--primary);
+}
+.recipe :is(a:hover, .cm-hmd-internal-link:hover) {
+  color: var(--highlight);
+}
+.recipe hr {
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
+
+.recipe img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}

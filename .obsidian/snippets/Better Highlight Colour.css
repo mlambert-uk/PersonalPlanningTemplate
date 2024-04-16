@@ -1,0 +1,4 @@
+body {
+  --fluro-yellow-rgb: 255, 255, 0;
+  --text-highlight-rgb: var(--fluro-yellow-rgb);
+}
